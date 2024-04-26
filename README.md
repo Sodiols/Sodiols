@@ -11,7 +11,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/sodiol sayem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sodiol sayem" height="30" width="40" /></a>
+<a href="https://github.com/Sodiols" target="_blank">
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
+    </a>
+    <a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100090420093597" target="_blank">
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>
+    </a>
+    <a href="https://www.instagram.com/https://www.instagram.com/sodiol_sayem//" target="_blank">
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>
+    </a>
+    <a href="https://sodiols.github.io/sodiolsayem.io/" target="_blank">
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
