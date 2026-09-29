@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sodiols&label=Profile%20views&color=0e75b6&style=flat" alt="sodiols" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://sodiols.github.io/sodiolsayem.io/](https://sodiols.github.io/sodiolsayem.io/)
+- 👨‍💻 All of my projects are available at [https://sodiols.github.io/sodiolsayem.io/](https://sodiol-sayem.vercel.app)
 
 - 📫 How to reach me **itssayem2023@gmail.com**
 
