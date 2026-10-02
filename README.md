@@ -78,13 +78,19 @@ A modern e-commerce platform focused on a clean shopping experience, with produc
 
 A custom-built wedding invitation and gifting platform with a focus on interactive experiences and modern UI.
 
-🔗 **[husnalogy.vercel.app](https://husnalogy.vercel.app)**
+🔗 **[husnalogy.com](https://husnalogy.com)**
 
 #### 🌐 Personal Portfolio
 
 My personal portfolio showcasing my work, skills, projects and experience as a web developer.
 
 🔗 **[sodiol-sayem.vercel.app](https://sodiol-sayem.vercel.app)**
+
+#### 🌐 Chat Web Application
+
+A private chatting app where users can make private servers and also join server using id and password
+
+🔗 **[prichat](https://prichat-ebf4.vercel.app)**
 
 ---
 
