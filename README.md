@@ -1,133 +1,73 @@
-<h1 align="center">Hi 👋, I'm Sodiol Sayem</h1>
+<!--
+  SODIOL SAYEM — GitHub profile README
+  Put this file in the root of your public Sodiols/Sodiols repository.
+  Keep the assets/ directory alongside it. Animations are local GIFs,
+  so the profile does not depend on JavaScript or animation services.
+--><p align="center">
+  <a href="https://sodiol-sayem.vercel.app" title="Explore Sodiol Sayem's portfolio">
+    <img src="./assets/hero-3d.gif" width="100%" alt="Animated 3D-inspired banner for Sodiol Sayem, full stack developer from Sylhet, Bangladesh, featuring a floating code editor and geometric objects" />
+  </a>
+</p><p align="center">
+  <a href="https://sodiol-sayem.vercel.app" title="View my portfolio"><img src="./assets/cta-portfolio.png" height="54" alt="View portfolio" /></a>
+  <a href="https://github.com/Sodiols" title="Explore my GitHub repositories"><img src="./assets/cta-github.png" height="54" alt="GitHub repositories" /></a>
+  <a href="mailto:itssayem2023@gmail.com" title="Send me an email"><img src="./assets/cta-email.png" height="54" alt="Contact me by email" /></a>
+</p><p align="center">
+  <strong>Self-taught web developer & designer</strong> based in Sylhet, Bangladesh 🇧🇩
+  <br />
+  Building thoughtful interfaces and functional products, from idea to production.
+</p>
+01 / THE BUILDER
+I’m Sodiol Sayem, a web developer and designer who enjoys the space where visual design, interaction, and engineering meet. I work across modern frontends, application logic, authentication, and data-backed experiences, with an emphasis on making every interaction feel intentional.
 
-<h3 align="center">Self-taught Web Developer & Designer from Bangladesh 🇧🇩</h3>
-
+My approach is simple: design with purpose, build with care, and keep improving what ships.
 <p align="center">
-  I build modern, responsive and user-focused web experiences — from simple websites to full-stack projects.
-</p>
-
+  <img src="./assets/terminal.gif" width="100%" alt="Animated terminal showing Sodiol Sayem's approach to responsive design, product thinking and web development" />
+</p>02 / THE TOOLKIT
 <p align="center">
-  <a href="https://sodiol-sayem.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-sodiol--sayem.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/Sodiols">
-    <img src="https://img.shields.io/badge/GitHub-Sodiols-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+  <img src="./assets/toolkit.png" width="100%" alt="Technology stack: JavaScript, TypeScript, HTML5, CSS3, React, Next.js, Tailwind CSS, Bootstrap, Node.js, Supabase, Firebase, PostgreSQL, REST APIs, Git, GitHub, authentication and responsive UI" />
+</p>Frontend: React · Next.js · JavaScript · TypeScript · HTML · CSS · Tailwind CSS · Bootstrap
+Backend & data: Node.js · Supabase · PostgreSQL · Firebase · REST APIs · Authentication
+Tools & workflow: Git · GitHub · Responsive design · UI engineering
 
----
+03 / SELECTED WORK
+These are real projects I’ve worked on, each with a different product challenge.
+<a href="https://tarabd.co" title="Visit TARA">
+  <img src="./assets/project-tara.png" width="100%" alt="TARA project card, an elegant fashion commerce storefront" />
+</a>
+TARA is a fashion e-commerce platform with a product-focused storefront, shopping flows, authentication, order management and backend functionality.
+Visit TARA
 
-### 👨‍💻 About Me
+<a href="https://husnalogy.com" title="Visit Husnalogy">
+  <img src="./assets/project-husnalogy.png" width="100%" alt="Husnalogy project card, an invitation and gifting platform represented by layered stationery" />
+</a>Husnalogy is an invitation and gifting platform built around customization, meaningful design and an intuitive personalization experience.
+Visit Husnalogy
 
-* 💻 Self-taught **Web Developer & Designer**
-* 🌐 Focused on building clean, responsive and interactive web experiences
-* ⚛️ Working mainly with **JavaScript, React and modern frontend technologies**
-* 🚀 Currently exploring **Next.js, TypeScript and Supabase**
-* 🛠️ I enjoy turning ideas and designs into real, functional products
-* 📂 Check out my projects: **[sodiol-sayem.vercel.app](https://sodiol-sayem.vercel.app)**
-* 📫 Reach me at **[itssayem2023@gmail.com](mailto:itssayem2023@gmail.com)**
+<a href="https://sodiol-sayem.vercel.app" title="Visit my portfolio">
+  <img src="./assets/project-portfolio.png" width="100%" alt="Personal portfolio project card with dimensional developer interface graphics" />
+</a>Personal Portfolio is my own space to experiment with creative development, interface details, motion and selected work.
+View Portfolio
 
----
+<a href="https://prichat-ebf4.vercel.app" title="Visit PriChat">
+  <img src="./assets/project-prichat.png" width="100%" alt="PriChat project card showing a stylized private messaging interface" />
+</a>PriChat is a private chatting application where people can create servers and join a server using its ID and password.
+Open PriChat
 
-### 🧰 Tech Stack
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://supabase.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-### 🚀 Featured Projects
-
-#### 🛍️ Tara
-
-A modern e-commerce platform focused on a clean shopping experience, with product management, authentication, orders and a scalable backend architecture.
-
-🔗 **[tarabd.co](https://tarabd.co)**
-
-#### 💍 Husnalogy
-
-A custom-built wedding invitation and gifting platform with a focus on interactive experiences and modern UI.
-
-🔗 **[husnalogy.com](https://husnalogy.com)**
-
-#### 🌐 Personal Portfolio
-
-My personal portfolio showcasing my work, skills, projects and experience as a web developer.
-
-🔗 **[sodiol-sayem.vercel.app](https://sodiol-sayem.vercel.app)**
-
-#### 🌐 Chat Web Application
-
-A private chatting app where users can make private servers and also join server using id and password
-
-🔗 **[prichat](https://prichat-ebf4.vercel.app)**
-
----
-
-### 📊 GitHub Stats
-
+04 / GITHUB ACTIVITY
+<details>
+  <summary><strong>Expand my GitHub stats and most-used languages</strong></summary>
+  <br />
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sodiols&amp;show_icons=true&amp;hide_border=true&amp;bg_color=101827&amp;title_color=9F8BFF&amp;text_color=E8EDF9&amp;icon_color=64DEEE" height="170" alt="GitHub statistics for Sodiols" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sodiols&amp;layout=compact&amp;hide_border=true&amp;bg_color=101827&amp;title_color=9F8BFF&amp;text_color=E8EDF9" height="170" alt="Most-used languages in Sodiols's public GitHub repositories" />
+  </p>
+</details>
+05 / FIND ME ONLINE
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sodiols&show_icons=true&hide_border=true&theme=transparent" alt="Sodiol Sayem's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sodiols&layout=compact&hide_border=true&theme=transparent" alt="Top Languages"/>
-</p>
-
----
-
-### 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/Sodiols" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" height="30"/>
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100090420093597" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="30"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/sodiol_sayem/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30"/>
-  </a>
-  &nbsp;
-  <a href="https://sodiol-sayem.vercel.app" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" alt="Website" height="30"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Building, learning, and shipping one project at a time.</i>
+  <a href="https://github.com/Sodiols">GitHub</a> &nbsp;·&nbsp;
+  <a href="https://sodiol-sayem.vercel.app">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/sodiol_sayem/">Instagram</a> &nbsp;·&nbsp;
+  <a href="https://www.facebook.com/profile.php?id=100090420093597">Facebook</a> &nbsp;·&nbsp;
+  <a href="mailto:itssayem2023@gmail.com">Email</a>
+</p><p align="center">
+  <sub>DESIGN WITH PURPOSE &nbsp; • &nbsp; BUILD WITH CARE &nbsp; • &nbsp; KEEP SHIPPING</sub>
 </p>
